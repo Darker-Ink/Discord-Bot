@@ -1,0 +1,16 @@
+{
+  "name": "anti-bot-token-stealer",
+  "version": "1.0.0",
+  "description": "This allows your to check how many time a user boosted your server, feel free to use that in your code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DarkerInk#1750",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "discord.js": "^12.5.3"
+  }
+}
