@@ -1,6 +1,6 @@
 # Discord Bot
 
-This allows your to check how many time a user boosted your server, feel free to use that in your code.
+This makes it where your token won't be stolen if you paste in chat
 
 ## Note:
 - This might be considered self-botting which is against Discord's Terms of service, this might seem harmless but  nonetheless use at your own risk
