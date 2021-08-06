@@ -17,7 +17,7 @@ This makes it where your token won't be stolen if you paste in chat
 <br>
 
 This field is for your Discord **User** token, a bot token simply won't work.
-> *note:* The user must have access the the bot I.E using a team
+> *note:* The user must have access to the bot in anyway, I suggest using a Team
 
 
 ### channelid:
