@@ -1,6 +1,5 @@
 {
-    "token": "",
+    "usertoken": "",
     "appid": "",
-    "channelid": "",
-    "bottoken": ""
+    "channelid": ""
 }

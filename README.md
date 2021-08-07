@@ -13,7 +13,12 @@ This makes it where your token won't be stolen if you paste in chat
 
 ## Config:
 
-### token:
+### TOKEN:
+<br>
+
+Make a file called .env and do TOKEN=bottoken
+
+### usertoken:
 <br>
 
 This field is for your Discord **User** token, a bot token simply won't work.
@@ -30,10 +35,3 @@ Channel ID the bot will send messages in when its token gets comprised.
 
 App ID the ID of your bot.
 > *note:* The use account in use must have access to the bot, I recommend that you Use a Team.
-
-
-### bottoken:
-<br>
-
-The Token the Bot uses to login the first time
-> *note:* If the token gets comprised and the code/bot goes down you will have to replace it.
