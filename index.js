@@ -1,7 +1,7 @@
 const axios = require('axios');
 let config = require('./config.json');
 require("dotenv").config()
-const { resest } = require('./reset.js')
+const { resetToken } = require('./reset.js')
 
 const Discord = require('discord.js')
 const client = new Discord.Client()
